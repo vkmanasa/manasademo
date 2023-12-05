@@ -3,7 +3,7 @@
         <active>true</active>
         <description/>
         <name>test script</name>
-        <script><![CDATA[gs.print("ashish-tettst-script");]]></script>
+        <script><![CDATA[gs.print("ashish-teuuust-script");]]></script>
         <sys_class_name>ecc_agent_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-05 10:18:15</sys_created_on>
