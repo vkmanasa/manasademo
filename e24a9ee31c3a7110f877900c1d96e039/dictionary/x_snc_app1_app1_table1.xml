@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="db4b16a71c3a7110f877900c1d96e014" label="app1_table1" max_length="40" name="x_snc_app1_app1_table1" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Manager" max_length="40" name="manager" type="string"/>
+    </element>
+</database>
